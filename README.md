@@ -74,6 +74,6 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/task-tracker.git
+   git clone https://github.com/austinlevi/task-tracker.git
 
    cd task-tracker
